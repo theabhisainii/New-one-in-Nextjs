@@ -16,6 +16,7 @@ const SignupPage = () => {
               <p className="mt-4 max-w-xl text-sm leading-7 text-slate-600">
                 Join us today and start building your next project with a polished, responsive experience.
               </p>
+              
 
               <form className="mt-10 space-y-6">
                 <div>
